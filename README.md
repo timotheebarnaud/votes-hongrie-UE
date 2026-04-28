@@ -4,12 +4,12 @@
 
 ## Visualisations
 
-1. [La Hongrie, championne de l'opposition au sein de l'UE](https://www.datawrapper.de/_/dbh8n/) — Classement des votes "contre" par pays
-2. [Une nette accélération de l'opposition ces dernières années](https://www.datawrapper.de/_/8sNCj/) — Votes "contre" de la Hongrie par année
-3. [La justice et l'environnement, les deux combats majeurs](https://public.flourish.studio/visualisation/28396073/) — Votes "contre" et abstentions par thématique
-4. [La Hongrie, seule contre tous](https://www.datawrapper.de/_/dnqOP/) — Isolement dans les votes "contre"
-5. [La Pologne, meilleure alliée de la Hongrie](https://www.datawrapper.de/_/fYtBk/) — Pays votant "contre" aux côtés de la Hongrie
-6. [Le droit de veto, une arme sur-utilisée par la Hongrie au Conseil européen](https://public.flourish.studio/visualisation/28393946/) — Vetos par pays et par thématique
+1. [La Hongrie, championne de l'opposition au sein de l'UE](https://www.datawrapper.de/_/dbh8n/) - Classement des votes "contre" par pays
+2. [Une nette accélération de l'opposition ces dernières années](https://www.datawrapper.de/_/8sNCj/) - Votes "contre" de la Hongrie par année
+3. [La justice et l'environnement, les deux combats majeurs](https://public.flourish.studio/visualisation/28396073/) - Votes "contre" et abstentions par thématique
+4. [La Hongrie, seule contre tous](https://www.datawrapper.de/_/dnqOP/) - Isolement dans les votes "contre"
+5. [La Pologne, meilleure alliée de la Hongrie](https://www.datawrapper.de/_/fYtBk/) - Pays votant "contre" aux côtés de la Hongrie
+6. [Le droit de veto, une arme sur-utilisée par la Hongrie au Conseil européen](https://public.flourish.studio/visualisation/28393946/) - Vetos par pays et par thématique
 
 ## Méthodologie
 
