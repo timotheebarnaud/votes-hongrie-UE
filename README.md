@@ -15,7 +15,7 @@
 
 Les 1 723 résultats de vote sont récupérés par **scraping** du [registre public des votes](https://www.consilium.europa.eu/en/general-secretariat/corporate-policies/transparency/voting-results/) du Conseil de l'UE, à l'aide de **Selenium** (Chrome en mode debug pour contourner Cloudflare) et **BeautifulSoup**. Les données sur les vetos au Conseil européen proviennent du [EU Veto Tracker](https://michalovadek.github.io/eu-veto-tracker/) de Michal Ovádek (UCL, 2025).
 
-**Distinction importante** : le Conseil de l'UE (votes législatifs, majorité qualifiée) et le Conseil européen (vetos, unanimité) sont deux institutions distinctes. Un vote "contre" au Conseil de l'UE ne bloque pas l'adoption d'un texte — il exprime une opposition politique. Un veto au Conseil européen bloque effectivement la décision.
+**Distinction importante** : le Conseil de l'UE (votes législatifs, majorité qualifiée) et le Conseil européen (vetos, unanimité) sont deux institutions distinctes. Un vote "contre" au Conseil de l'UE ne bloque pas l'adoption d'un texte, il exprime une opposition politique. Un veto au Conseil européen bloque effectivement la décision.
 
 Données au 06/04/2026.
 
